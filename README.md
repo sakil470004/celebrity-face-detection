@@ -1,6 +1,6 @@
-#celebrity-face-detection
-##api information
-###https://www.clarifai.com/models/celebrity-face-recognition
+# celebrity-face-detection
+## api information
+### https://www.clarifai.com/models/celebrity-face-recognition
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
